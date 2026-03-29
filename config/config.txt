@@ -1,0 +1,3 @@
+decoy_files/passwords.txt
+decoy_files/salary.txt
+decoy_files/secret.doc
